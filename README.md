@@ -1,12 +1,8 @@
-<h3 style={    display: flex;
-    justify-content: center;}>Hi there! 👋 I'm Jorge Silva <br> an Web Developer,UXUI Designer, <br> and Veteran</h3>
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jorge1772)](https://github.com/anuraghazra/github-readme-stats&theme=radical))
-
+Hi there! 👋 I'm Jorge Silva,  A  Web Developer,  A UXUI Designer, and USN Veteran
 
 ![Jorge's GitHub stats](https://github-readme-stats.vercel.app/api?username=jorge1772&count_private=true&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jorge1772)](https://github.com/anuraghazra/github-readme-stats&theme=radical))
 
 
 <!--// **Jorge1772/jorge1772** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
