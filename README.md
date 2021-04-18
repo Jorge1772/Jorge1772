@@ -1,4 +1,3 @@
-[![](https://el-psy-congroo-counter.glitch.me/count.svg)](https://glitch.com/~el-psy-congroo-counter)
 Hi there! 👋 I'm Jorge Silva,  A  Web Developer,  A UXUI Designer, and USN Veteran
 
 ## Operating System & Tools
