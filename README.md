@@ -1,4 +1,5 @@
-<h3>Hi there! 👋 I'm Jorge Silva <br> an Web Developer,UXUI Designer, <br> and Veteran</h3>
+<h3 style={    display: flex;
+    justify-content: center;}>Hi there! 👋 I'm Jorge Silva <br> an Web Developer,UXUI Designer, <br> and Veteran</h3>
 
 
 
