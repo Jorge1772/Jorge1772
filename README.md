@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning ...
 -👯 I’m looking to collaborate on ...
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jorge1772)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jorge1772)](https://github.com/anuraghazra/github-readme-stats&theme=radical))
 
 
 ![Jorge's GitHub stats](https://github-readme-stats.vercel.app/api?username=jorge1772&count_private=true&show_icons=true&theme=radical)
