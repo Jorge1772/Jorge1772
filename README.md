@@ -1,5 +1,12 @@
 ### Hi there 👋
+<div align="center">
 
+  ## [![jorge Silva's header](https://github.com/stephenajulu/stephenajulu/blob/master/images/edited%20header.png)](https://stephenajulu.com)
+
+
+  <br>
+
+<h3>Hi there! 👋🤓<br>I'm Stephen Ajulu<br>an I.T Consultant, Web Developer, <br>Entrepreneur, Graphic Designer, <br>Content Creator and Cybsecurity Strategist</h3>
 
 - 📫 How to reach me: ..
 - ⚡ Fun fact: ...
