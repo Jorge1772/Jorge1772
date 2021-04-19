@@ -1,5 +1,5 @@
 Hi there! 👋 I'm Jorge Silva,  A  Web Developer,  A UXUI Designer, and USN Veteran
-
+[![Linkedin Badge](https://img.shields.io/badge/-JorgeSilva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jorgelsilvajr/)](https://www.linkedin.com/in/jorgelsilvajr/)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -7,7 +7,6 @@ Hi there! 👋 I'm Jorge Silva,  A  Web Developer,  A UXUI Designer, and USN Vet
 - 💬 Ask me about ...
 - 📫 How to reach me: ..
 
-[![Linkedin Badge](https://img.shields.io/badge/-JorgeSilva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jorgelsilvajr/)](https://www.linkedin.com/in/jorgelsilvajr/)
 ## Operating System & Tools
 
 [![macOS](https://img.shields.io/badge/macOS-Mojave-292e33?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/macos/mojave/)
